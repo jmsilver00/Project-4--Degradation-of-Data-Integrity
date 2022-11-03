@@ -1,4 +1,4 @@
-# Project 4 -Degradation-of-Data-Integrity
+# Project 4 Degradation of Data Integrity
 
 To run:
 
